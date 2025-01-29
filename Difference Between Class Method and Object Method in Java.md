@@ -1,5 +1,6 @@
 Static Code : https://www.programiz.com/online-compiler/5ds72LcoOhS1p
 Object Method code: https://www.programiz.com/online-compiler/1786W8fzoOf5L
+Getter & Setter: https://www.programiz.com/online-compiler/1MLrp3lWynnKM
 
 ### **Difference Between Class Method and Object Method in Java**
 
